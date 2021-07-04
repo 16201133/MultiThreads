@@ -11,6 +11,7 @@
     <!-- Thread_01子模块 -->
     <modules>
         <module>Thread_01</module>
+        <module>Thread_02</module>
     </modules>
 
     <properties>
