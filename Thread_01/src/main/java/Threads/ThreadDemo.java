@@ -7,7 +7,6 @@ package Threads;
         3、调用start()开启线程
  */
 public class ThreadDemo extends Thread {
-
     @Override
     public void run() {
         //run方法线程体
